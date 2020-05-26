@@ -1,0 +1,40 @@
+_repo: A-Body-of-Divinity-Vol-2-of-4-Wherein-the-doctrines-of-the-Christian-religion-are-explained-a__62149
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Wilson, James P. (James Patriot)
+    aliases:
+    - Wilson, James Patriot
+    - Christian
+    birthdate: 1769
+    deathdate: 1830
+    gutenberg_agent_id: '50586'
+    url: http://www.gutenberg.org/2009/agents/50586
+creator:
+  author:
+    agent_name: Ridgley, Thomas
+    deathdate: 1734
+    gutenberg_agent_id: '50315'
+    url: http://www.gutenberg.org/2009/agents/50315
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Ridgley
+description: ''
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presbyterian Church -- Doctrines'
+- !lcsh 'Theology, Doctrinal'
+- !lcsh 'Westminster Assembly (1643-1652). Larger catechism'
+- !lcc 'BX'
+- !lcc 'BT'
+- !lcsh 'Presbyterianism'
+- GITenberg
+title: "A Body of Divinity, Vol. 2 (of 4)\r\nWherein the doctrines of the Christian\
+  \ religion are explained and defended, being the substance of several lectures on\
+  \ the Assembly's Larger Catechism"
+url: http://www.gutenberg.org/ebooks/62149
